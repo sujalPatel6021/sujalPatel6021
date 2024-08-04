@@ -1,3 +1,5 @@
+![logo](https://github.com/sujalPatel6021/sujalPatel6021/blob/main/github-header-image.png)
+
 # 💫 About Me:
 👋 Hello! I'm Sujal Patel<br>I'm a passionate Computer Science student from LJ University 🎓. I love exploring new technologies and working on interesting projects. My main interests include web development 🌐, data science 📊, and software engineering 💻.<br><br>Feel free to check out my repositories and connect with me!
 
